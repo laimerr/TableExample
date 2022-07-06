@@ -17,7 +17,7 @@
             dataType: "id",
             allowEditing: false
         },{
-            dataField: "liceu",
+            dataField: "Liceu",
         }, {
             dataField: "clase",
             dataType: "number"
